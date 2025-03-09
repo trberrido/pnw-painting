@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "three": "^0.174.0"
+  },
+  "devDependencies": {
+    "sass": "^1.85.1",
+    "vite": "^6.2.1"
+  },
+
+    "scripts": {
+      "build": "vite build",
+      "preview": "vite preview"
+    }
+}
